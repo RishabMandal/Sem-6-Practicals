@@ -1,0 +1,4 @@
+male(chaitanya).
+female(angel).
+
+spouse(chaitanya,angel).
